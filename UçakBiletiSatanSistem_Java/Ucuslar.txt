@@ -1,0 +1,14 @@
+İstanbul,Ankara,2026-02-27,10:00,450
+İstanbul,Antalya,2026-01-27,10:00,700
+Antalya,İstanbul,2026-01-27,10:00,700
+Ankara,İzmir,2026-01-27,11:30,550
+İzmir,Antalya,2026-01-27,09:15,600
+İstanbul,Ankara,2026-01-30,11:00,450
+Ankara,İzmir,2026-01-30,15:00,550
+İstanbul,Ankara,2026-01-30,15:00,450
+Ankara,İstanbul,2026-01-27,10:00,450
+İstanbul,Ankara,2026-02-01,08:00,450
+İstanbul,Ankara,2026-02-01,10:00,450
+İstanbul,Ankara,2026-02-01,12:30,450
+İstanbul,Ankara,2026-02-01,15:00,450
+İstanbul,Ankara,2026-02-01,18:00,450
