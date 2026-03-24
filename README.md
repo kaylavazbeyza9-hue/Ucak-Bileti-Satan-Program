@@ -2,6 +2,7 @@
 Bu proje, Java dili kullanılarak geliştirilmiş, nesne yönelimli programlama (OOP) mantığına dayanan bir uçak bileti yönetim simülasyonudur. Uygulama, kullanıcıların bilet satın alma süreçlerini ve sadakat programı indirimlerini yönetir.
 
 🌟 Öne Çıkan Özellikler
+
 Sadakat Programı (5. Bilet İndirimi): Sistem, kullanıcının satın alma geçmişini takip eder. Aynı kullanıcı 5. biletini satın aldığında otomatik olarak özel indirim uygulanır.
 
 Hata Yönetimi: Geçersiz veri girişlerine (negatif mesafe, hatalı karakter vb.) karşı kullanıcıyı uyaran kontrol mekanizmaları içerir.
